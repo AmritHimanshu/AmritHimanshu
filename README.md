@@ -12,36 +12,19 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishna11118&label=Profile%20views&color=0e75b6&style=flat" alt="krishna11118 " /> </p>
 
+## 👋 Hi, I'm Himanshu
 
-  
-<!-- Love learning new technologies and contributing to open source.
+I'm a dedicated and passionate Full-Stack Developer with a strong foundation in both frontend and backend technologies. I specialize in building modern, responsive, and user-friendly web applications using a tech stack that includes **React.js, Next.js, Tailwind CSS, Node.js, Express,** and **MongoDB**. My experience spans across various projects where I’ve successfully led teams, crafted efficient and scalable solutions, and dived deep into the intricacies of backend systems.
 
-- 🌱 I’m currently learning : **Machine learning** 
-- 🔭 I’m looking to collaborate on any good project on **Fintech**
-- 💬 Ask me about : **JAVASCRIPT / REACT** -->
+With a background in Computer Science and hands-on experience as a Frontend Developer, I've honed my skills in delivering seamless user experiences and robust, maintainable code. I’m particularly interested in low-level design concepts and continuously strive to enhance my knowledge in areas like **SQL, C++,** and **TypeScript**.
 
-<!-- 💻 All of my projects are available at : [<img src="https://img.shields.io/badge/Projects-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=white">](https://github.com/Krishna11118?tab=repositories) 
-[<img src="https://img.shields.io/badge/Portfolio-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=White">](https://github.com/Krishna11118?tab=repositories) -->
-
-<p> Hello, I am Rishab an enthusiastic front-end as-well-as backend developer specializing in MERN Stack and creating captivating and user-friendly web experiences.
-
-I have a solid foundation in JavaScript, Typescript, Nextjs, ReactJS, CSS, Tailwind, HTML, and Bootstrap. I transform imaginative designs into functional websites.
-
-<!-- I thrive on continuous learning, and staying updated with the latest technologies and trends. Collaboration is at the core of my process, working closely with designers and stakeholders to create visually stunning and intuitive websites. </p> -->
-
-<p> I am always seeking out new challenges and opportunities to expand my skill set, and I am excited to bring my expertise and passion for software development to any organization. </p>
-
-<div>
-<!--         <a href="https://github.com/FahimFBA?tab=followers"> -->
-<!--          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Krishna11118?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a> -->
-      <a href="https://github.com/FahimFBA?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Krishna11118?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+Beyond coding, I’m always eager to explore the latest tech trends, contribute to open-source projects, and collaborate on innovative ideas. Whether it's working on an eCommerce platform or experimenting with new frameworks, I’m all about pushing the boundaries of what’s possible with technology. **Let’s connect and build something extraordinary together!**
 
       
    
   **<p align="left">  👥 Let's Connect 🤝  </p>**
 
-<a href="https://www.linkedin.com/in/Krishna365/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></a> <a href = "mailto:krishnassss365@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/himanshu-s-243654205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></a> <a href = "mailto:krishnassss365@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  <a href = "https://dev.to/krisshnacool"><img src="https://img.shields.io/badge/Dev-E4405F?style=for-the-badge&logo=dev&logoColor=white" 
  target="_blank"></a>
 
