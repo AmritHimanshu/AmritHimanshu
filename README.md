@@ -55,7 +55,7 @@ Beyond coding, I’m always eager to explore the latest tech trends, contribute 
 
 <div align="center">
 <!--   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna11118&theme=dark" alt="Krishna11118" /></p>   -->
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amrithimanshu&" alt="amrithimanshu" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrithimanshu&" alt="amrithimanshu" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amrithimanshu&show_icons=true&locale=en" alt="amrithimanshu" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrithimanshu&show_icons=true&locale=en&layout=compact" alt="amrithimanshu" /></p>
 </div>
