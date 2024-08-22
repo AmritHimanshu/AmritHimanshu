@@ -46,6 +46,7 @@ Beyond coding, I’m always eager to explore the latest tech trends, contribute 
    <img src="https://img.shields.io/badge/redux-CC6699?style=for-the-badge&logo=redux&logoColor=white"> 
 <!--   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"> -->
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB-E44C30?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-F24E1E?style=for-the-badge&logo=postman&logoColor=white">
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
@@ -54,10 +55,14 @@ Beyond coding, I’m always eager to explore the latest tech trends, contribute 
 
 <div align="center">
 <!--   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna11118&theme=dark" alt="Krishna11118" /></p>   -->
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrithimanshu&show_icons=true&locale=en&layout=compact" alt="amrithimanshu" /></p>
-
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amrithimanshu&" alt="amrithimanshu" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amrithimanshu&show_icons=true&locale=en" alt="amrithimanshu" /></p>
-</div> 
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrithimanshu&show_icons=true&locale=en&layout=compact" alt="amrithimanshu" /></p>
+</div>
+
+<div align="center">
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amrithimanshu&" alt="amrithimanshu" /></p> -->
+</div>
 
  
 [![Poro](https://i0.wp.com/graficus.com/wp-content/uploads/2021/06/Portfolio-header.jpg?fit=2120%2C639&ssl=1)](https://krishnaaportfolio.netlify.app/)
