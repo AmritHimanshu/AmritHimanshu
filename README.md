@@ -14,7 +14,7 @@
 
 ## 👋 Hi, I'm Himanshu
 
-I'm a dedicated and passionate Full-Stack Developer with a strong foundation in both frontend and backend technologies. I specialize in building modern, responsive, and user-friendly web applications using a tech stack that includes **React.js, Next.js, Tailwind CSS, Node.js, Express,** and **MongoDB**. My experience spans across various projects where I’ve successfully led teams, crafted efficient and scalable solutions, and dived deep into the intricacies of backend systems.
+I'm a dedicated and passionate Full-Stack Developer with a strong foundation in both frontend and backend technologies. I specialize in building modern, responsive, and user-friendly web applications using a tech stack that includes **React.js, Next.js, Tailwind CSS, Node.js, Express, MongoDB** and **SQL**. My experience spans across various projects where I’ve successfully led teams, crafted efficient and scalable solutions, and dived deep into the intricacies of backend systems.
 
 With a background in Computer Science and hands-on experience as a Frontend Developer, I've honed my skills in delivering seamless user experiences and robust, maintainable code. I’m particularly interested in low-level design concepts and continuously strive to enhance my knowledge in areas like **SQL, C++,** and **TypeScript**.
 
