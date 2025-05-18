@@ -33,7 +33,7 @@ Beyond coding, I’m always eager to explore the latest tech trends, contribute 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
     <img src="https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=react&logoColor=000000"> 
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-      <img src="https://img.shields.io/badge/typescript-323330?style=for-the-badge&logo=javascript&logoColor=3178C6">
+      <img src="https://img.shields.io/badge/typescript-323330?style=for-the-badge&logo=typescript&logoColor=3178C6">
    <img src="https://img.shields.io/badge/c++-CC6699?style=for-the-badge&logo=cpp&logoColor=white"> 
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -45,8 +45,8 @@ Beyond coding, I’m always eager to explore the latest tech trends, contribute 
     <img src="https://img.shields.io/badge/tailwindcss-323330?style=for-the-badge&logo=javascript&logoColor=06B6D4">
    <img src="https://img.shields.io/badge/redux-CC6699?style=for-the-badge&logo=redux&logoColor=white"> 
 <!--   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"> -->
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GITHUB-E44C30?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-F24E1E?style=for-the-badge&logo=postman&logoColor=white">
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=docker&logoColor=white">
