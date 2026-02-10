@@ -16,6 +16,8 @@
 
 I'm a dedicated and passionate Full-Stack Developer with a strong foundation in both frontend and backend technologies. I specialize in building modern, responsive, and user-friendly web applications using a tech stack that includes **React.js, Next.js, Tailwind CSS, Node.js, Express, MongoDB** and **SQL**. My experience spans across various projects where I’ve successfully led teams, crafted efficient and scalable solutions, and dived deep into the intricacies of backend systems.
 
+Along with full-stack development, I’m actively exploring AI/ML — particularly in areas like computer vision, model training, TensorFlow/PyTorch workflows, and real-world deployments. I’m also working on Generative AI, experimenting with LLMs, prompt engineering, and integrating AI features into full-stack applications.
+
 With a background in Computer Science and hands-on experience as a Frontend Developer, I've honed my skills in delivering seamless user experiences and robust, maintainable code. I’m particularly interested in low-level design concepts and continuously strive to enhance my knowledge in areas like **SQL, C++,** and **TypeScript**.
 
 Beyond coding, I’m always eager to explore the latest tech trends, contribute to open-source projects, and collaborate on innovative ideas. Whether it's working on an eCommerce platform or experimenting with new frameworks, I’m all about pushing the boundaries of what’s possible with technology. **Let’s connect and build something extraordinary together!**
