@@ -32,7 +32,7 @@ Beyond coding, I’m always eager to explore the latest tech trends, contribute 
 **<p align="left">  💻 Tech stack 🛠 </p>**
 
 <div align="left">
-  <img src="https://img.shields.io/badge/AI-20232A?style=for-the-badge&logo=AI&logoColor=61DAFB"> 
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-102230?style=for-the-badge&logo=openai&logoColor=white"> 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
     <img src="https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=react&logoColor=000000"> 
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
