@@ -12,17 +12,20 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amrithimanshu&label=Profile%20views&color=0e75b6&style=flat" alt="amrithimanshu " /> </p>
 
+
 ## 👋 Hi, I'm Himanshu
 
 I’m a GenAI-focused developer building real-world applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and modern AI frameworks like LangChain.
  
 I started my journey as a Full Stack Developer (MERN), where I built scalable web applications with authentication systems, APIs, and responsive UIs. Recently, I’ve shifted my focus toward Generative AI to work on more intelligent and impactful systems.
+
  
 💡 **What I’m currently working on**:
 
  Building AI applications using LangChain + ChromaDB + HuggingFace 
  Developing RAG-based systems (Resume Screener, MCQ Generator) 
  Exploring LLM orchestration, embeddings, and vector databases 
+
 
 🎯 **Goal**:
  To build intelligent AI systems that solve real-world problems and contribute to the next generation of AI-powered products.
