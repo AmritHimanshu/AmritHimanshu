@@ -21,7 +21,6 @@ I started my journey as a Full Stack Developer (MERN), where I built scalable we
 
  
 💡 **What I’m currently working on**:
-
  Building AI applications using LangChain + ChromaDB + HuggingFace 
  Developing RAG-based systems (Resume Screener, MCQ Generator) 
  Exploring LLM orchestration, embeddings, and vector databases 
@@ -33,12 +32,10 @@ I started my journey as a Full Stack Developer (MERN), where I built scalable we
       
    
   **<p align="left">  👥 Let's Connect 🤝  </p>**
-  
 <a href="https://www.linkedin.com/in/himanshu-s-243654205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></a> <a href = "mailto:himanshukumaramrit41855@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 **<p align="left">  💻 Tech stack 🛠 </p>**
-
 <div align="left">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-102230?style=for-the-badge&logo=openai&logoColor=white"> 
   <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white">
@@ -75,7 +72,7 @@ I started my journey as a Full Stack Developer (MERN), where I built scalable we
 </div>
 
 <div align="center">
-<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amrithimanshu&" alt="amrithimanshu" /></p> -->
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amrithimanshu&" alt="amrithimanshu" /></p>
 </div>
 
  
