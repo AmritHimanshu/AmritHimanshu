@@ -21,12 +21,14 @@ I started my journey as a Full Stack Developer (MERN), where I built scalable we
 
  
 💡 **What I’m currently working on**:
+
  Building AI applications using LangChain + ChromaDB + HuggingFace 
  Developing RAG-based systems (Resume Screener, MCQ Generator) 
  Exploring LLM orchestration, embeddings, and vector databases 
 
 
 🎯 **Goal**:
+
  To build intelligent AI systems that solve real-world problems and contribute to the next generation of AI-powered products.
 
       
@@ -71,9 +73,9 @@ I started my journey as a Full Stack Developer (MERN), where I built scalable we
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrithimanshu&show_icons=true&locale=en&layout=compact" alt="amrithimanshu" /></p>
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amrithimanshu&" alt="amrithimanshu" /></p>
-</div>
+</div> -->
 
  
 [![Poro](https://i0.wp.com/graficus.com/wp-content/uploads/2021/06/Portfolio-header.jpg?fit=2120%2C639&ssl=1)](https://new-portfolio-sage-beta.vercel.app/)
