@@ -24,7 +24,7 @@ I started my journey as a Full Stack Developer (MERN), where I built scalable we
 
  Building AI applications using LangChain + ChromaDB + HuggingFace 
  Developing RAG-based systems (Resume Screener, MCQ Generator) 
- Exploring LLM orchestration, embeddings, and vector databases 
+ Exploring LLM orchestration, embeddings, and vector databases.
 
 
 🎯 **Goal**:
